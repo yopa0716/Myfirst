@@ -8,6 +8,8 @@ java
 angular4
 hibernet
 
+mysql 
+html  
 
 
 thanks :)
